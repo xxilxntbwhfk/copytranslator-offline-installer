@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Translation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 CopyTranslator Free Installer** — CopyTranslator is a free translation tool for Windows and macOS that automatically translates text copied to the clipboard. Works without internet access, no account required. Full offline installation.
+**💻 CopyTranslator Free Installer** — CopyTranslator is a free translation tool for Windows, macOS, and Linux that automatically translates text as you copy it to the clipboard. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About CopyTranslator
 
-CopyTranslator is a free translation tool for Windows and macOS that automatically translates text copied to the clipboard. It monitors clipboard activity and shows translations in a floating window — useful for reading foreign language documents.
+CopyTranslator is a free translation tool for Windows, macOS, and Linux that automatically translates text as you copy it to the clipboard. Reading foreign language papers, web pages, or documents becomes effortless — copy any text and CopyTranslator immediately shows the translation in a small, always-on-top window. Supports Google Translate, DeepL, and other translation services.
 
 ---
 
 ## ❌ Problem: CopyTranslator is hard to access
 
-- **Privacy Concern** — Monitors clipboard constantly; all copied text potentially sent to translation API
-- **API Dependency** — Requires third-party translation API configuration
-- **Windows and macOS Only** — No Linux version available
-- **Internet Required** — No offline translation capability
+- **Internet Required** — Translation requires active internet connection
+- **Translation Quality** — Machine translation quality varies by language pair
+- **Privacy** — Text sent to external translation APIs
+- **Clipboard Interference** — Automatic clipboard monitoring can occasionally interfere with other workflows
 
 ---
 
@@ -121,7 +121,7 @@ CopyTranslator is a free translation tool for Windows and macOS that automatical
 
 ---
 
-**CopyTranslator Free Installer** — CopyTranslator is a free translation tool for Windows and macOS that automatically translates text copied to the clipboard. Install without internet connection today!
+**CopyTranslator Free Installer** — CopyTranslator is a free translation tool for Windows, macOS, and Linux that automatically translates text as you copy it to the clipboard. Install without internet connection today!
 
 <div align="center">
 
